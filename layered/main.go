@@ -17,7 +17,7 @@ func main() {
 
 	db := utils.InitDB(config)
 	userRepo := _userRepo.New(db)
-	userController := user.New(*userRepo)
+	userController := user.New(userRepo)
 
 	e := echo.New()
 

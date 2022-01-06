@@ -8,10 +8,10 @@ import (
 )
 
 type UserController struct {
-	Repo user.UserRepository
+	Repo user.User
 }
 
-func New(user user.UserRepository) *UserController {
+func New(user user.User) *UserController {
 	return &UserController{Repo: user}
 }
 
