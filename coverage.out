@@ -1,0 +1,19 @@
+mode: set
+Project/playground/be5/rest/layered/delivery/controllers/user/user.go:16.46,18.2 1 1
+Project/playground/be5/rest/layered/delivery/controllers/user/user.go:20.49,21.36 1 1
+Project/playground/be5/rest/layered/delivery/controllers/user/user.go:21.36,24.17 2 1
+Project/playground/be5/rest/layered/delivery/controllers/user/user.go:30.3,33.5 1 1
+Project/playground/be5/rest/layered/delivery/controllers/user/user.go:24.17,29.4 2 1
+Project/playground/be5/rest/layered/delivery/controllers/user/user.go:37.52,38.36 1 1
+Project/playground/be5/rest/layered/delivery/controllers/user/user.go:38.36,41.48 2 1
+Project/playground/be5/rest/layered/delivery/controllers/user/user.go:45.3,52.17 3 1
+Project/playground/be5/rest/layered/delivery/controllers/user/user.go:56.3,56.36 1 1
+Project/playground/be5/rest/layered/delivery/controllers/user/user.go:41.48,43.4 1 0
+Project/playground/be5/rest/layered/delivery/controllers/user/user.go:52.17,54.4 1 0
+Project/playground/be5/rest/layered/repository/user/user.go:14.39,16.2 1 1
+Project/playground/be5/rest/layered/repository/user/user.go:18.58,20.49 2 0
+Project/playground/be5/rest/layered/repository/user/user.go:24.2,24.19 1 0
+Project/playground/be5/rest/layered/repository/user/user.go:20.49,23.3 2 0
+Project/playground/be5/rest/layered/repository/user/user.go:27.80,28.51 1 1
+Project/playground/be5/rest/layered/repository/user/user.go:33.2,33.21 1 1
+Project/playground/be5/rest/layered/repository/user/user.go:28.51,31.3 2 0

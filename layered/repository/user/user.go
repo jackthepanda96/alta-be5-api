@@ -23,3 +23,12 @@ func (ur *UserRepository) Get() ([]entities.User, error) {
 	}
 	return users, nil
 }
+
+func (ur *UserRepository) Insert(newUser entities.User) (entities.User, error) {
+	if err := ur.db.Save(&newUser).Error; err != nil {
+		log.Warn("Found database error:", err)
+		return newUser, err
+	}
+
+	return newUser, nil
+}
